@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "67456204053",
+    "firebase_url": "https://mappinstest-1544118770856.firebaseio.com",
+    "project_id": "mappinstest-1544118770856",
+    "storage_bucket": "mappinstest-1544118770856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67456204053:android:76e7060fbffd8ab9",
+        "android_client_info": {
+          "package_name": "com.example.vlad.mappinstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67456204053-ei497pf90iha2ugfm3plbvlv0tggaso8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjQE-nUddqS-NC6ysUsfVv0sD7BzRU1Jc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
